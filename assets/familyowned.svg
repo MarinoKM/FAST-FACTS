@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>fast-facts-95-family-owned</title>
+    <desc>Created with Sketch.</desc>
+    <g id="fast-facts-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FAST-FACTS" transform="translate(-185.000000, -2841.000000)">
+            <g id="fast-facts-95-family-owned" transform="translate(186.000000, 2844.000000)">
+                <circle id="Oval" stroke="#92A4B0" stroke-width="5" opacity="0.4" cx="48.546841" cy="47" r="47"></circle>
+                <path d="M33.2986911,2.56572696 C14.7767114,8.93468391 1.54684096,26.4604421 1.54684096,47.2052402 C1.54684096,72.9573832 22.5894577,94 48.7520811,94 C74.5042242,94 95.546841,72.9573832 95.546841,47.2052402 C95.546841,21.0426168 74.5042242,0 48.7520811,0" id="Path" stroke="#61727D" stroke-width="5" stroke-linecap="round"></path>
+                <text id="95%-FAMILY-OWNED" font-family="HalyardDisplaySemiBold, Halyard Display" font-size="12" font-weight="500" line-spacing="12" letter-spacing="1.5" fill="#61727D">
+                    <tspan x="33.324" y="39.424">95%</tspan>
+                    <tspan x="23.238" y="51.424">FAMILY</tspan>
+                    <tspan x="21.924" y="63.424">OWNED</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

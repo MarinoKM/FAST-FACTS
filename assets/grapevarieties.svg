@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="206px" height="100px" viewBox="0 0 206 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>fast-facts-grapevarieties</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-14.059457%" y1="-3.89598136%" x2="97.8079756%" y2="54.7929373%" id="linearGradient-1">
+            <stop stop-color="#E9AA77" offset="0%"></stop>
+            <stop stop-color="#B77254" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="fast-facts-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FAST-FACTS" transform="translate(-181.000000, -1581.000000)">
+            <g id="fast-facts-grapevarieties" transform="translate(184.000000, 1584.000000)">
+                <text id="78%-RED" font-family="HalyardDisplaySemiBold, Halyard Display" font-size="12" font-weight="500" line-spacing="12" letter-spacing="2.933043" fill="#B17757">
+                    <tspan x="28.9984355" y="44.424">78%</tspan>
+                    <tspan x="28.8004355" y="56.424">RED</tspan>
+                </text>
+                <g id="Group-6" transform="translate(0.453159, 0.000000)" opacity="0.4" stroke="#AC795C" stroke-width="5">
+                    <circle id="Oval" cx="47.546841" cy="47" r="47"></circle>
+                </g>
+                <g id="Group-6" transform="translate(0.000000, 0.000000)" stroke="url(#linearGradient-1)" stroke-linecap="round" stroke-width="5">
+                    <path d="M3.15348709,30.5543552 C1.21619487,35.7273569 0.157734205,41.3375283 0.157734205,47.2052402 C0.157734205,72.9573832 21.200351,94 47.3629744,94 C73.1151174,94 94.1577342,72.9573832 94.1577342,47.2052402 C94.1577342,21.0426168 73.1151174,0 47.3629744,0" id="Path"></path>
+                </g>
+                <text id="22%-WHITE" font-family="HalyardDisplaySemiBold, Halyard Display" font-size="12" font-weight="500" line-spacing="12" letter-spacing="2.933043" fill="#B17757">
+                    <tspan x="136.184436" y="44.424">22%</tspan>
+                    <tspan x="126.099393" y="56.424">WHITE</tspan>
+                </text>
+                <g id="Group-6-Copy" transform="translate(105.000000, 0.000000)" stroke-width="5">
+                    <circle id="Oval" stroke="#AC795C" opacity="0.4" cx="47.9420479" cy="47" r="47"></circle>
+                    <path d="M94.9420479,47 C94.9420479,20.9511271 73.807139,0 47.9420479,0" id="Path" stroke="url(#linearGradient-1)" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
